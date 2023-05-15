@@ -1,0 +1,14 @@
+@font-face {
+    /* thank you to int10h.org ❤ */
+    /* author: VileR */
+    /* CC BY-SA 4.0 */
+    font-family: "IBM CGA";
+    src: url("font/WebPlus_IBM_CGA.woff");
+}
+
+* {
+    color-scheme: dark;
+    background-color: black;
+    color: #FFBF00;
+    font-family: 'IBM CGA', monospace;
+}
